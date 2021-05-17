@@ -717,6 +717,9 @@ header .slide-open,
   .main .section2 .video-container {
     height: auto;
   }
+  .main .section2 .text{
+    font-size: var(--base-font);
+  }
   .main .section3 .title h1,
   .main .section3 .title p {
     width: 100%;
